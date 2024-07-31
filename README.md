@@ -1,5 +1,5 @@
 # Security Analysis
-(Freelance Project)
+Freelance Project with [Armur AI](https://github.com/Armur-Ai)
 This repository contains a Jupyter notebook that performs an analysis of various security measures and their effectiveness.
 
 ## Overview
